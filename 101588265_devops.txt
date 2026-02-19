@@ -1,0 +1,12 @@
+DevOps also focuses on monitoring system performance.
+Continuous feedback helps improve software quality.
+
+Monitoring helps detect issues early.
+Feedback loops support continuous improvement.
+
+DevOps is a practice that combines development and operations.
+It helps teams deliver software faster and more reliably.
+DevOps uses automation tools to improve efficiency.
+CI/CD pipelines are an important part of DevOps.
+DevOps encourages collaboration between teams.
+

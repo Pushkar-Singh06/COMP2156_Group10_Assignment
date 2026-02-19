@@ -1,0 +1,13 @@
+--------Kevin Henry 101410890-----------
+
+DevOps helps teams build, test, and release software faster by automating
+repetitive tasks like building code, testing, and deployment. This reduces 
+delays and allows companies to deliver updates quickly.
+
+DevOps connects developers and IT operations teams, encouraging communication 
+and shared responsibility. Instead of working separately, teams collaborate 
+throughout the entire SDLC.
+
+
+
+....The End.....
