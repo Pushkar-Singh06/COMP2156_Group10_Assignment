@@ -1,0 +1,7 @@
+COMP2156 is a DevOps course that introduces students to modern development and operations practices. The course covers tools such as Git, GitHub, and CI/CD pipelines to help automate software development workflows.
+
+Through hands-on labs and group assignments, students learn how version control, collaboration, and automation improve efficiency and reduce errors in system administration and software development. 
+
+The course also helps students understand real-world DevOps workflows used in the IT industry.
+
+DevOps practices taught in this course help reduce deployment risks and improve system reliability.
