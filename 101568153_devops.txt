@@ -5,4 +5,4 @@ The COMP 2156 course teaches version control, automation, and CI/CD.
 Tools like Git and GitHub are used for collaboration and source control.
 
 DevOps improves software delivery speed and reliability.
-aahahaha
+aahahah
